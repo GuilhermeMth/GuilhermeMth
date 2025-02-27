@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: learn and gain experience to continually improve my skills.<br>🎲 Fun fact: Problem Exists Between Keyboard And Chair</p>
+<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: learn and gain experience to continually improve my skills<br>🎲 Fun fact: Problem Exists Between Keyboard And Chair</p>
 
 ###
 

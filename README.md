@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Guilherme Matheus, and I am a student of Internet Systems Technology at IFPE"</p>
+<p align="left">My name is Guilherme Matheus, and I am a student of Internet Systems Technologist at IFPE"</p>
 
 ###
 

@@ -14,7 +14,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img height="200" src="https://c.tenor.com/-C4-ttyK6YAAAAAC/tenor.gif"  />
 </div>
 

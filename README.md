@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" height="25" />
 </div>
 
 ---

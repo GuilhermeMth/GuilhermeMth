@@ -14,8 +14,8 @@
 
 <h2 align="left">My Skills</h2>
 
-<h4 align="left" style="margin-bottom: 2px;">Frontend:</h4>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <h4 align="left" style="margin-bottom: 2px;">Frontend:</h4>
   <img src="https://img.shields.io/badge/JavaScript-FF9A00?logo=javascript&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" />
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
-<h4 align="left" style="margin-bottom: 2px;">Backend:</h4>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <h4 align="left" style="margin-bottom: 2px;">Backend:</h4>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" />
@@ -32,28 +32,20 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
-<h4 align="left" style="margin-bottom: 2px;">Database:</h4>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <h4 align="left" style="margin-bottom: 2px;">Database:</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
-<h4 align="left" style="margin-bottom: 2px;">Workstation Tools:</h4>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <h4 align="left" style="margin-bottom: 2px;">Workstation Tools:</h4>
   <img src="https://img.shields.io/badge/Linux-FF9A00?logo=linux&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" />
-</div>
-
-<h4 align="left" style="margin-bottom: 2px;">Graphic Design:</h4>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" height="25" />
 </div>
 
 ---

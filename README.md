@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeMth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&bg_color=00000000&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeMth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=city_lights&bg_color=00000000&hide_border=true" height="150" alt="languages graph" />
 </div>
-
+---
 <h2 align="left">My Skills</h2>
 
 <h5 align="left" style="margin-bottom: 5px;">Frontend:</h5>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=whitek&style=for-the-badge" height="25" />
 </div>
-
+---
 <h2 align="left">Social Media:</h2>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermemfranca06@gmail.com" target="_blank">

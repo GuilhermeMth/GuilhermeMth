@@ -14,7 +14,7 @@
 
 <h5 align="left" style="margin-bottom: 5px;">Frontend:</h5>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" />
@@ -24,9 +24,9 @@
 <h5 align="left" style="margin-bottom: 5px;">Backend:</h5>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
@@ -38,7 +38,7 @@
 
 <h5 align="left" style="margin-bottom: 5px;">Workstation Tools:</h5>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="25" />
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=whitek&style=for-the-badge" height="25" />
 </div>
 
 <h2 align="left">Social Media:</h2>

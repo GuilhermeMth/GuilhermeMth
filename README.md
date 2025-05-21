@@ -55,7 +55,9 @@
   <img src="https://img.shields.io/badge/After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=whitek&style=for-the-badge" height="25" />
 </div>
+
 ---
+
 <h2 align="left">Social Media:</h2>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermemfranca06@gmail.com" target="_blank">
